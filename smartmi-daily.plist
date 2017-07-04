@@ -9,7 +9,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://ios.update.n.miliao.com/daily/smartmiapp/ipa/smartmi.ipa</string>
+						<string>http://ios.update.n.miliao.com/daily/smartmi/app/ipa/smartEnv.ipa</string>
 					</dict>
 				</array>
 				<key>metadata</key>
